@@ -1,0 +1,98 @@
+bundle: agent-forge-experts
+items:
+  - id: agent/experts/django-expert
+    kind: agent
+    name: django-expert
+    domain: experts
+    license: MIT
+    description: Write expert Django code with optimized models, views, and templates. Handles complex queries, middleware, and RESTful APIs. Use proactively for Django optimiza
+  - id: agent/experts/docker-expert
+    kind: agent
+    name: docker-expert
+    domain: experts
+    license: MIT
+    description: Expert in all aspects of Docker, including containerization, image creation, and orchestration.
+  - id: agent/experts/fastapi-expert
+    kind: agent
+    name: fastapi-expert
+    domain: experts
+    license: MIT
+    description: FastAPI development with an emphasis on best practices, optimization, and robust design patterns.
+  - id: agent/experts/kafka-expert
+    kind: agent
+    name: kafka-expert
+    domain: experts
+    license: MIT
+    description: Write highly efficient, scalable, and fault-tolerant Kafka architectures. Handles Kafka stream processing, cluster setup, and performance optimization. Use PROA
+  - id: agent/experts/mongodb-expert
+    kind: agent
+    name: mongodb-expert
+    domain: experts
+    license: MIT
+    description: Master MongoDB operations, schema design, performance optimization, and data modeling. Handles indexing, aggregations, and replication. Use PROACTIVELY for Mong
+  - id: agent/experts/nestjs-expert
+    kind: agent
+    name: nestjs-expert
+    domain: experts
+    license: MIT
+    description: Expert in building scalable and efficient applications using the NestJS framework. Focused on design patterns, best practices, and performance optimization spec
+  - id: agent/experts/nextjs-expert
+    kind: agent
+    name: nextjs-expert
+    domain: experts
+    license: MIT
+    description: Expert in Next.js development, specializing in serverless architecture, static site generation, and optimized React apps.
+  - id: agent/experts/nodejs-expert
+    kind: agent
+    name: nodejs-expert
+    domain: experts
+    license: MIT
+    description: Specializes in Node.js development, focusing on performance optimization, asynchronous programming, and best practices for building scalable server-side applica
+  - id: agent/experts/postgres-expert
+    kind: agent
+    name: postgres-expert
+    domain: experts
+    license: MIT
+    description: Expert in PostgreSQL database management and optimization, handling complex SQL queries, indexing strategies, and ensuring high-performance database systems.
+  - id: agent/experts/react-expert
+    kind: agent
+    name: react-expert
+    domain: experts
+    license: MIT
+    description: React development expert with deep understanding of component architecture, hooks, state management, and performance optimization. Use PROACTIVELY for React ref
+  - id: agent/experts/react-native-expert
+    kind: agent
+    name: react-native-expert
+    domain: experts
+    license: MIT
+    description: Expert in React Native development focusing on cross-platform mobile applications with optimal performance and native integrations. Use PROACTIVELY for React Na
+  - id: agent/experts/redis-expert
+    kind: agent
+    name: redis-expert
+    domain: experts
+    license: MIT
+    description: Expert in Redis for in-memory data storage, caching, and real-time analytics.
+  - id: agent/experts/spring-boot-expert
+    kind: agent
+    name: spring-boot-expert
+    domain: experts
+    license: MIT
+    description: Expert in developing, optimizing, and maintaining Spring Boot applications with best practices and modern techniques for enterprise-grade applications.
+  - id: agent/experts/svelte-expert
+    kind: agent
+    name: svelte-expert
+    domain: experts
+    license: MIT
+    description: Master Svelte.js development with a focus on building performant, maintainable, and idiomatic Svelte applications. Specializes in reactive programming, componen
+  - id: agent/experts/tailwind-expert
+    kind: agent
+    name: tailwind-expert
+    domain: experts
+    license: MIT
+    description: Expert in Tailwind CSS for efficient and responsive styling of web projects, utilizing utility-first approaches and responsive design principles.
+  - id: agent/experts/vue-expert
+    kind: agent
+    name: vue-expert
+    domain: experts
+    license: MIT
+    description: Vue.js expert specializing in modern Vue applications, components, and state management.
